@@ -1,7 +1,7 @@
 # Unbound — issue tracker
 
 Bug reports and ideas for **Unbound**, a space journey mod for Minecraft 26.3 (Fabric and NeoForge).
-Mod page: https://modrinth.com/mod/unbound_mod
+Mod page: [Modrinth](https://modrinth.com/mod/unbound_mod) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/unbound)
 
 The mod is in **beta** and still in active development, so every report helps. Please:
 
@@ -68,7 +68,7 @@ Sketches, screenshots, other games or mods that do something similar.
 # Unbound — трекер багов и идей
 
 Сообщения об ошибках и идеи для **Unbound** — космического мода для Minecraft 26.3 (Fabric и NeoForge).
-Страница мода: https://modrinth.com/mod/unbound_mod
+Страница мода: [Modrinth](https://modrinth.com/mod/unbound_mod) · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/unbound)
 
 Мод в **бете** и активно разрабатывается, поэтому любое сообщение помогает. Пожалуйста:
 
